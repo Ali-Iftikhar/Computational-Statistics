@@ -1,8 +1,8 @@
 # Computational-Statistics
 
-# Efficient computational code for computing in-control probability of single point and run length properties of control charts 
+Efficient computational code for computing in-control probability of single point and run length properties of control charts 
 
-# Note: for using the code, add package "chi"
+Note: for using the code, add package "chi"
 
 
 install.packages("chi")    # Installation of required package

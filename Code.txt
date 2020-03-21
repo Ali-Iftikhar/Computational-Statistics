@@ -3,6 +3,7 @@
 
 # Note: for using the code, add package "chi"
 
+install.packages("chi")    # Installation of required package
 library(chi)
 
 Onepoint=function(ARLT,k)  # Start of function for computing P0
